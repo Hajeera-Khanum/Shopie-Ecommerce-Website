@@ -25,6 +25,7 @@ if(isset($_GET['delete_all'])){
    header('location:wishlist.php');
 }
 
+
 ?>
 
 <!DOCTYPE html>
